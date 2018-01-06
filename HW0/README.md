@@ -1,5 +1,5 @@
 # Homework 0
-**Introduction to Data Science - MATH 3900 / CS 5963**  
+**Introduction to Data Science - MATH 4100 / COMP 5360.**  
 *This homework is due before class on Thursday, January 11th.*  
 
 
