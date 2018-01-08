@@ -33,7 +33,7 @@ $ python
 
 However, as most software, Python comes in different versions (default on Mac is Python 2) and is packaged differently depending on your needs. In this class we'll use a Python distribution called Anaconda. Anaconda comes with a lot of packages that we'll need pre-installed, so it should be the most hassle-free option for us.
 
-Go to [this website](https://docs.continuum.io/anaconda/install) and install anaconda for Python 3.6 for your operating system.
+Go to [this website](https://www.anaconda.com/download/) and install anaconda for Python 3.6 for your operating system. [Here](https://docs.continuum.io/anaconda/install) are installation instructions if you need them.
 
 Once you've installed Anaconda, close your terminal window and re-open it - otherwise your terminal won't recognize the Anaconda commands.
 
