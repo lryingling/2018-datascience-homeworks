@@ -95,4 +95,4 @@ Click on the `lab-1-notebook.ipynb` entry to see if it works. We'll take it from
 
 ### 4. Self Study: Python
 
-We recommend that you go through the excellent [Code Academy Python Tutorials](https://www.codecademy.com/learn/python). For this Homework, go through "UNIT 1: PYTHON SYNTAX" and "UNIT 2: STRINGS AND CONSOLE OUTPUT".
+We recommend that you go through the excellent [Code Academy Python Tutorials](https://www.codecademy.com/learn/learn-python). For this Homework, go through Unit 1: "Python Syntax", and Unit 2: "Strings and Console Output".
