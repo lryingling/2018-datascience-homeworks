@@ -91,7 +91,7 @@ This will start the notebook server and should open up a browser window point to
 
 ![Jupyter Notebook Screenshot](jupyter.png)
 
-Click on the `lab-1-notebook.ipynb` entry to see if it works. We'll take it from there in the labs!
+Click on the `lecture-02-notebook.ipynb` entry to see if it works. We'll take it from there in the labs!
 
 ### 4. Self Study: Python
 
